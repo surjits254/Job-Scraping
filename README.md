@@ -21,7 +21,7 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
         
 ### Step 2 : Setup Lambda Function
 <p> 1. Create a lambda functiion with S3 event trigger. <br>
-    2. Create signed URL for your ourput file and edit the load command inside lambda_function.py. <br>
+    2. Create signed URL for your output file and edit the load command inside lambda_function.py. <br>
     3. Edit the authorization value, which is base64 encoding on username:password value for connecting to neo4j. <br>
     4. Edit the IP address of Neo4j EC2 instance. </p>
 
