@@ -1,0 +1,322 @@
+location,type,url,job_title
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/stoneham-entry-level-full-stack-web/7162923502.html,Entry Level Full Stack Web Developer
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7165292655.html,Computer Engineers
+Detroit,full-time,https://detroit.craigslist.org/mcb/sof/d/sterling-heights-net-applications/7163347156.html,.NET Applications Engineer II
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-senior-network-engineer/7163038436.html,Senior Network Engineer
+Miami,full-time,https://miami.craigslist.org/mdc/sof/d/new-york-ai-sports-startup-seeks/7162967378.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+New York,part-time,https://newyork.craigslist.org/mnh/sof/d/new-york-co-founder-software-engineer/7165253609.html,Co-Founder/Software Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/sunnyvale-the-ultimate-internship/7165439547.html,THE ULTIMATE INTERNSHIP – BECOME AN IT EXPERT IN 5 MONTHS
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/el-segundo-systems-administrator/7164480510.html,Systems Administrator / Storage Administrator
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-sr-cnet-developer-full-time/7156977293.html,Sr. C#.NET Developer [full-time]
+Austin,employee's choice,https://austin.craigslist.org/sof/d/austin-looking-for-tech-co-founder/7160752840.html,Looking for tech co-founder
+Miami,full-time,https://miami.craigslist.org/pbc/sof/d/west-palm-beach-software-developer/7158794845.html,Software Developer
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-full-stack-engineer-per-year/7164041702.html,"Full-stack Engineer | $100,000 - $140,000 per year"
+Seattle,full-time,https://seattle.craigslist.org/skc/sof/d/seattle-systems-integration-engineer/7164651246.html,Systems Integration Engineer | $75 - $85 per hour
+Los Angeles,full-time,https://losangeles.craigslist.org/lgb/sof/d/long-beach-want-career-in-it-or-tech-we/7163987692.html,Want a career in IT or Tech? We can help
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7160062084.html,Data Science Fellowship
+Miami,full-time,https://miami.craigslist.org/mdc/sof/d/miami-business-process-analyst/7154417466.html,Business Process Analyst
+New York,full-time,https://newyork.craigslist.org/que/sof/d/astoria-want-career-in-it-or-tech-we/7163988308.html,Want a career in IT or Tech? We can help
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-programmer/7164570835.html,Senior Programmer
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7154502465.html,Data Science Fellowship
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/new-york-ai-sports-startup-seeks/7162965582.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-want-career-in-it-or-tech-we/7164072697.html,Want a career in IT or Tech? We can help
+Boston,contract,https://boston.craigslist.org/nwb/sof/d/westford-data-engineer-software-engineer/7162309783.html,Data Engineer / Software Engineer
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-senior-full-stack-engineer/7164043579.html,Senior Full-stack Engineer | HireArt | Remote
+Miami,full-time,https://miami.craigslist.org/brw/sof/d/fort-lauderdale-dot-net-developer/7163044701.html,DOT NET DEVELOPER
+Los Angeles,part-time,https://losangeles.craigslist.org/wst/sof/d/venice-technical-internship/7162981421.html,Technical Internship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-migration-engineer/7159989239.html,Data Migration Engineer
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-5-seats-left-get-paid-to-learn/7163793776.html,5 Seats Left: Get Paid to Learn Digital Marketing (Remote to Onsite)
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-want-career-in-it-or-tech-we/7164076441.html,Want a career in IT or Tech? We can help
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-senior-director-it-and-security/7151122983.html,"Senior Director, IT and Security"
+Detroit,employee's choice,https://detroit.craigslist.org/okl/sof/d/ferndale-job-opportunities-for/7162829622.html,Job Opportunities for Bilingual Professionals
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/santa-monica-seeking-awesome-laravel/7164606236.html,Seeking awesome Laravel developers (IN-HOUSE or REMOTE))
+Austin,full-time,https://austin.craigslist.org/sof/d/new-york-ai-sports-startup-seeks/7162973541.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Miami,contract,https://miami.craigslist.org/mdc/sof/d/miami-remote-programmer-ms-web/7162840784.html,Remote Programmer - MS Web Application Programmer
+New York,contract,https://newyork.craigslist.org/brk/sof/d/brooklyn-need-help-getting-into-my/7164405765.html,Need help getting into my GMAIL account
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7161277856.html,Computer Engineers
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-want-career-in-it-or-tech-we-can/7158300072.html,Want a career in IT or Tech? We can help
+New York,part-time,https://newyork.craigslist.org/que/sof/d/sunnyside-business-computer-instructors/7163228071.html,Business Computer Instructors
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-project-manager/7162929899.html,Project Manager
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7148252935.html,Data Science Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-sr-software-engineer/7159428208.html,Sr Software Engineer
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-software-engineer-frontend/7151122950.html,"Software Engineer, Frontend (Angular)"
+Los Angeles,employee's choice,https://losangeles.craigslist.org/wst/sof/d/los-angeles-internet-digital-social/7160184902.html,"Internet, digital, social media, SEO, marketer and internet advertiser"
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-platform-product-manager/7157137746.html,"Platform Product Manager Opportunity with Growing, Mission-Driven Company"
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-data-analyst/7163040111.html,Data Analyst
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7160060760.html,Data Science Fellowship
+Austin,employee's choice,https://austin.craigslist.org/sof/d/austin-senior-quality-assurance-analyst/7156619659.html,Senior Quality Assurance Analyst
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-sector-data-analyst/7163036071.html,Sector Data Analyst
+Seattle,full-time,https://seattle.craigslist.org/sno/sof/d/everett-software-support-analyst-hr/7162776082.html,Software Support Analyst – HR-Payroll Team
+Boston,part-time,https://boston.craigslist.org/nwb/sof/d/andover-programmer-needed/7152407652.html,Programmer needed
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7160057959.html,Software Engineering Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineer/7155909466.html,Software Engineer
+New York,full-time,https://newyork.craigslist.org/stn/sof/d/new-york-ai-sports-startup-seeks/7162964210.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/new-york-ai-sports-startup-seeks/7162964400.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Los Angeles,full-time,https://losangeles.craigslist.org/sgv/sof/d/san-gabriel-stem-teaching-fellowship/7159794888.html,STEM Teaching Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/hutto-database-engineer/7155112523.html,Database Engineer
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7160059853.html,Data Science Fellowship
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-software-engineer-contract/7161232878.html,"Software Engineer - Contract/Contract to Hire (Java, Cloud, Big Data)"
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/simi-valley-database-engineer/7162695908.html,Database Engineer
+Los Angeles,contract,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-artificial-intelligence/7158268279.html,Artificial Intelligence Expert Wanted
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-client-liaison/7154624414.html,Client Liaison
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7160057395.html,Software Engineering Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/new-york-ai-sports-startup-seeks/7162970805.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+New York,employee's choice,https://newyork.craigslist.org/lgi/sof/d/lynbrook-full-stack-developer-for/7163485436.html,Full Stack Developer for startup - future cto?
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7157121512.html,Computer Engineers
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-project-manager-scrum-coordinator/7154620680.html,Project Manager / Scrum Coordinator
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-game-developer/7159944646.html,Senior Game Developer
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-full-stack-front-end/7161232139.html,Senior Full Stack / Front End Engineer - Contract / Contract to Hire
+Seattle,part-time,https://seattle.craigslist.org/see/sof/d/seattle-technical-internship/7162817236.html,Technical Internship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineering-fellowship/7160059082.html,Software Engineering Fellowship
+Los Angeles,contract,https://losangeles.craigslist.org/lac/sof/d/san-pedro-cybersecurity-incident/7156526944.html,Cybersecurity Incident Response Analyst
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7154504137.html,Data Science Fellowship
+New York,full-time,https://newyork.craigslist.org/lgi/sof/d/hicksville-commerce-web-development/7159900372.html,E-Commerce Web Development
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-5-seats-left-get-paid-to-get/7163794324.html,5 Seats Left: Get Paid to Get your HSE (Remote to Onsite)
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-engineer-full/7164196094.html,Senior Software Engineer - Full Stack
+Los Angeles,employee's choice,https://losangeles.craigslist.org/wst/sof/d/los-angeles-work-from-home-expenses/7155821436.html,WORK FROM HOME?  EXPENSES REIMBURSED?
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineering-fellowship/7154501938.html,Software Engineering Fellowship
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/data-analytics-bank-consultant-temp-to/7159476681.html,Data Analytics Bank consultant-Temp-to Perm-$50-$65 per hour + OT
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/mountlake-terrace-sr-ruby-on-rails/7161156542.html,Sr Ruby on Rails Developer - Full Stack - React - Devops
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/woodland-hills-php-web-developer/7164069382.html,PHP Web Developer
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-want-career-in-it-or-tech-we/7155577537.html,Want a career in IT or Tech? We can help
+Los Angeles,full-time,https://losangeles.craigslist.org/lgb/sof/d/long-beach-want-career-in-it-or-tech-we/7155561412.html,Want a career in IT or Tech? We can help
+Austin,contract,https://austin.craigslist.org/sof/d/austin-project-change-manager/7154491882.html,Project / Change Manager
+New York,full-time,https://newyork.craigslist.org/jsy/sof/d/bogota-salesforce-developer-remote-job/7159336001.html,Salesforce Developer - 100% REMOTE Job
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7160060974.html,Data Science Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-mask-designer/7160489919.html,Mask Designer
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-engineer/7162750945.html,Senior Software Engineer // Consultant (Go / Golang / Java / AWS)
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/san-diego-peak-now-hiring-software/7155325191.html,PEAK Now Hiring a Software Engineer!
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-mid-level-programmer/7152262804.html,**Mid-Level Programmer**
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7159209012.html,Senior Full-stack Engineer | HireArt
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7160058463.html,Software Engineering Fellowship
+Miami,contract,https://miami.craigslist.org/brw/sof/d/fort-lauderdale-entry-level-mobile-app/7158579859.html,***Entry Level  Mobile App Developers (Android Studio or Swift)***
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7164035419.html,Senior Full-stack Engineer | HireArt
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-backend-developer-python/7164649500.html,Backend Developer - Python
+Boston,full-time,https://boston.craigslist.org/sob/sof/d/quincy-want-career-in-it-or-tech-we-can/7158306686.html,Want a career in IT or Tech? We can help
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/fairfield-it-service-management-manager/7154750667.html,IT Service Management Manager
+Austin,contract,https://austin.craigslist.org/sof/d/leander-adobe-captivate/7148923203.html,Adobe Captivate
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7159208891.html,Senior Full-stack Engineer | HireArt
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellevue-senior-site-reliability/7159982297.html,Senior Site Reliability Engineer - Drones - REMOTE
+Boston,contract,https://boston.craigslist.org/nos/sof/d/ipswich-graphic-designer-junior/7159663454.html,Graphic Designer - Junior position - virtual of course!
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-front-end-developer/7161232566.html,Senior Front End Developer- Contract / Contract to Hire
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7154502811.html,Data Science Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7148254192.html,Data Science Fellowship
+New York,full-time,https://newyork.craigslist.org/fct/sof/d/stamford-senior-solutions-analyst/7159148387.html,Senior Solutions Analyst
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-development-engineer/7159921901.html,Software Development Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-developer-systems-analyst/7164792104.html,Developer/Systems Analyst
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7160059945.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-principal-engineer/7161231933.html,Principal Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7154500738.html,Software Engineering Fellowship
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-get-paid-to-learn-trade/7158743131.html,Get Paid to Learn a Trade: Digital Marketing
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/sunnyvale-the-ultimate-internship/7159474069.html,THE ULTIMATE INTERNSHIP – BECOME AN IT EXPERT IN 5 MONTHS
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-software-deveoper-entry/7154137490.html,Software Deveoper (Entry level)
+New York,contract,https://newyork.craigslist.org/fct/sof/d/norwalk-oracle-database-administrator/7156041043.html,Oracle Database Administrator
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/snoqualmie-data-analyst/7159165741.html,Data Analyst
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7153173410.html,Computer Engineers
+New York,full-time,https://newyork.craigslist.org/que/sof/d/astoria-want-career-in-it-or-tech-we/7155561709.html,Want a career in IT or Tech? We can help
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-developer/7158795284.html,Senior Software Developer
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineer-front-end/7151867998.html,"Software Engineer, Front End"
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/dripping-springs-vmix-video-software/7154892791.html,Vmix Video Software Wizard (Texas (Central Time))
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-embedded-software-engineer/7157732050.html,Embedded Software Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-software-deveoper-entry/7151850616.html,Software Deveoper (Entry level)
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7154502291.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-business-intelligence-bi/7157060098.html,Business Intelligence (BI) Developer -- Beer & Beverage Industry
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/beverly-hills-product-lead-start-up/7151514429.html,Product Lead - Start up (esports) (SEL)
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7154499988.html,Software Engineering Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-validation-position-work/7155938054.html,Data Validation Position - Work From Home Full-Time
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/los-angeles-it-crm-pbx-systems-manager/7149930927.html,IT + CRM + PBX SYSTEMS MANAGER/SPECIALIST - FULL TIME!
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7154447536.html,Senior Full-stack Engineer | HireArt
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-electrical-engineer-interns-and/7155706740.html,"Electrical engineer interns, and other intern positions"
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7149002685.html,Computer Engineers
+New York,employee's choice,https://newyork.craigslist.org/mnh/sof/d/new-york-software-developer-wanted-now/7152918163.html,Software Developer Wanted NOW
+Seattle,full-time,https://seattle.craigslist.org/skc/sof/d/sumner-web-developer-coder/7155669530.html,Web Developer/Coder
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/van-nuys-network-monitor-programmer/7149001699.html,Network Monitor/Programmer
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-alarm-technician-installation/7152368039.html,ALARM TECHNICIAN INSTALLATION EXPERIENCE
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-software-engineer-medical/7155611014.html,SOFTWARE ENGINEER- MEDICAL
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/san-francisco-remote-full-stack-engineer/7148908270.html,Remote Full Stack Engineer
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/san-francisco-remote-full-stack-engineer/7148892762.html,Remote Full Stack Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-want-career-in-it-or-tech-we/7155581275.html,Want a career in IT or Tech? We can help
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7148253235.html,Data Science Fellowship
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7148252760.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/mountlake-terrace-ruby-on-rails/7155313508.html,Ruby on Rails Developer - Full Stack - React - Good Teammate
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7148251122.html,Software Engineering Fellowship
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7148250452.html,Software Engineering Fellowship
+Seattle,contract,https://seattle.craigslist.org/skc/sof/d/kent-security-engineer-wanted/7155212074.html,Security Engineer Wanted!
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-manual-test-engineer-software/7154681968.html,Manual Test Engineer w/Software and Hardware experience
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellevue-senior-technical-consultant/7154520115.html,Senior Technical Consultant and Development Manager
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7154503025.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7154501089.html,Software Engineering Fellowship
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-business-program-manager/7152472865.html,Business Program Manager
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellingham-remote-software-systems-and/7152443914.html,Remote Software Systems and API Tester
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-full-stack-front-end/7152377201.html,Senior Full Stack / Front End Engineer - Contract / Contract to Hire
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-software-engineer-contract/7152371367.html,"Software Engineer - Contract/Contract to Hire (Java, Cloud, Big Data)"
+Seattle,part-time,https://seattle.craigslist.org/skc/sof/d/federal-way-full-time-or-part-time/7152188437.html,FULL TIME OR PART TIME DENTAL MARKETING DIRECTOR
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-technical-writer/7151741993.html,Technical Writer
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-software-architect-kafka/7150682972.html,Software Architect (Kafka)
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-1-project-manager-and-2/7150645865.html,1 Project Manager and 2 Software Engineers
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-lead-sharepoint-developer/7150511327.html,Lead SharePoint Developer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/redmond-full-stack-web-developer/7150189013.html,Full Stack Web Developer
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/bellevue-associate-developer-test/7148277203.html,Associate Developer/Test Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7148253406.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7148251481.html,Software Engineering Fellowship
+location,type,url,job_title
+New York,part-time,https://newyork.craigslist.org/mnh/sof/d/new-york-co-founder-software-engineer/7165253609.html,Co-Founder/Software Engineer
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/stoneham-entry-level-full-stack-web/7162923502.html,Entry Level Full Stack Web Developer
+Detroit,full-time,https://detroit.craigslist.org/mcb/sof/d/sterling-heights-net-applications/7163347156.html,.NET Applications Engineer II
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/sunnyvale-the-ultimate-internship/7165439547.html,THE ULTIMATE INTERNSHIP – BECOME AN IT EXPERT IN 5 MONTHS
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-senior-network-engineer/7163038436.html,Senior Network Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7165292655.html,Computer Engineers
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-full-stack-engineer-per-year/7164041702.html,"Full-stack Engineer | $100,000 - $140,000 per year"
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7160059945.html,Data Science Fellowship
+Miami,full-time,https://miami.craigslist.org/mdc/sof/d/new-york-ai-sports-startup-seeks/7162967378.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-sr-cnet-developer-full-time/7156977293.html,Sr. C#.NET Developer [full-time]
+Seattle,full-time,https://seattle.craigslist.org/skc/sof/d/seattle-systems-integration-engineer/7164651246.html,Systems Integration Engineer | $75 - $85 per hour
+Austin,employee's choice,https://austin.craigslist.org/sof/d/austin-looking-for-tech-co-founder/7160752840.html,Looking for tech co-founder
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/el-segundo-systems-administrator/7164480510.html,Systems Administrator / Storage Administrator
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-programmer/7164570835.html,Senior Programmer
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7160062084.html,Data Science Fellowship
+Los Angeles,full-time,https://losangeles.craigslist.org/lgb/sof/d/long-beach-want-career-in-it-or-tech-we/7163987692.html,Want a career in IT or Tech? We can help
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7154502465.html,Data Science Fellowship
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/new-york-ai-sports-startup-seeks/7162965582.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+New York,contract,https://newyork.craigslist.org/brk/sof/d/brooklyn-need-help-getting-into-my/7164405765.html,Need help getting into my GMAIL account
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-want-career-in-it-or-tech-we/7164072697.html,Want a career in IT or Tech? We can help
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-senior-full-stack-engineer/7164043579.html,Senior Full-stack Engineer | HireArt | Remote
+Boston,contract,https://boston.craigslist.org/nwb/sof/d/westford-data-engineer-software-engineer/7162309783.html,Data Engineer / Software Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-want-career-in-it-or-tech-we/7164076441.html,Want a career in IT or Tech? We can help
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-migration-engineer/7159989239.html,Data Migration Engineer
+Los Angeles,part-time,https://losangeles.craigslist.org/wst/sof/d/venice-technical-internship/7162981421.html,Technical Internship
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-senior-director-it-and-security/7151122983.html,"Senior Director, IT and Security"
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/santa-monica-seeking-awesome-laravel/7164606236.html,Seeking awesome Laravel developers (IN-HOUSE or REMOTE))
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-developer-systems-analyst/7164792104.html,Developer/Systems Analyst
+Detroit,employee's choice,https://detroit.craigslist.org/okl/sof/d/ferndale-job-opportunities-for/7162829622.html,Job Opportunities for Bilingual Professionals
+Austin,full-time,https://austin.craigslist.org/sof/d/new-york-ai-sports-startup-seeks/7162973541.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Boston,contract,https://boston.craigslist.org/nos/sof/d/ipswich-graphic-designer-junior/7159663454.html,Graphic Designer - Junior position - virtual of course!
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-project-manager/7162929899.html,Project Manager
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-want-career-in-it-or-tech-we-can/7158300072.html,Want a career in IT or Tech? We can help
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7161277856.html,Computer Engineers
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-data-science-fellowship/7148252935.html,Data Science Fellowship
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-sector-data-analyst/7163036071.html,Sector Data Analyst
+Boston,full-time,https://boston.craigslist.org/gbs/sof/d/boston-software-engineer-frontend/7151122950.html,"Software Engineer, Frontend (Angular)"
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-backend-developer-python/7164649500.html,Backend Developer - Python
+Detroit,full-time,https://detroit.craigslist.org/wyn/sof/d/detroit-want-career-in-it-or-tech-we/7155577537.html,Want a career in IT or Tech? We can help
+Seattle,part-time,https://seattle.craigslist.org/see/sof/d/seattle-technical-internship/7162817236.html,Technical Internship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-platform-product-manager/7157137746.html,"Platform Product Manager Opportunity with Growing, Mission-Driven Company"
+Los Angeles,employee's choice,https://losangeles.craigslist.org/wst/sof/d/los-angeles-internet-digital-social/7160184902.html,"Internet, digital, social media, SEO, marketer and internet advertiser"
+New York,full-time,https://newyork.craigslist.org/stn/sof/d/new-york-ai-sports-startup-seeks/7162964210.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Seattle,full-time,https://seattle.craigslist.org/sno/sof/d/everett-software-support-analyst-hr/7162776082.html,Software Support Analyst – HR-Payroll Team
+Austin,employee's choice,https://austin.craigslist.org/sof/d/austin-senior-quality-assurance-analyst/7156619659.html,Senior Quality Assurance Analyst
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7160060760.html,Data Science Fellowship
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7160059853.html,Data Science Fellowship
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-engineer/7162750945.html,Senior Software Engineer // Consultant (Go / Golang / Java / AWS)
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineer/7155909466.html,Software Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7160057959.html,Software Engineering Fellowship
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7160057395.html,Software Engineering Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineering-fellowship/7160059082.html,Software Engineering Fellowship
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-software-engineer-contract/7161232878.html,"Software Engineer - Contract/Contract to Hire (Java, Cloud, Big Data)"
+Austin,full-time,https://austin.craigslist.org/sof/d/hutto-database-engineer/7155112523.html,Database Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/sgv/sof/d/san-gabriel-stem-teaching-fellowship/7159794888.html,STEM Teaching Fellowship
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-game-developer/7159944646.html,Senior Game Developer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/new-york-ai-sports-startup-seeks/7162970805.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-sr-software-engineer/7159428208.html,Sr Software Engineer
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-front-end-developer/7161232566.html,Senior Front End Developer- Contract / Contract to Hire
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-client-liaison/7154624414.html,Client Liaison
+Los Angeles,contract,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-artificial-intelligence/7158268279.html,Artificial Intelligence Expert Wanted
+New York,full-time,https://newyork.craigslist.org/lgi/sof/d/hicksville-commerce-web-development/7159900372.html,E-Commerce Web Development
+Boston,part-time,https://boston.craigslist.org/nwb/sof/d/andover-programmer-needed/7152407652.html,Programmer needed
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/simi-valley-database-engineer/7162695908.html,Database Engineer
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-full-stack-front-end/7161232139.html,Senior Full Stack / Front End Engineer - Contract / Contract to Hire
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-project-manager-scrum-coordinator/7154620680.html,Project Manager / Scrum Coordinator
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7157121512.html,Computer Engineers
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/data-analytics-bank-consultant-temp-to/7159476681.html,Data Analytics Bank consultant-Temp-to Perm-$50-$65 per hour + OT
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-principal-engineer/7161231933.html,Principal Engineer
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7154504137.html,Data Science Fellowship
+Los Angeles,contract,https://losangeles.craigslist.org/lac/sof/d/san-pedro-cybersecurity-incident/7156526944.html,Cybersecurity Incident Response Analyst
+New York,full-time,https://newyork.craigslist.org/jsy/sof/d/bogota-salesforce-developer-remote-job/7159336001.html,Salesforce Developer - 100% REMOTE Job
+Miami,full-time,https://miami.craigslist.org/mdc/sof/d/miami-business-process-analyst/7154417466.html,Business Process Analyst
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-data-analyst/7163040111.html,Data Analyst
+New York,part-time,https://newyork.craigslist.org/que/sof/d/sunnyside-business-computer-instructors/7163228071.html,Business Computer Instructors
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-engineer-full/7164196094.html,Senior Software Engineer - Full Stack
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/mountlake-terrace-sr-ruby-on-rails/7161156542.html,Sr Ruby on Rails Developer - Full Stack - React - Devops
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-software-engineering-fellowship/7154501938.html,Software Engineering Fellowship
+Los Angeles,employee's choice,https://losangeles.craigslist.org/wst/sof/d/los-angeles-work-from-home-expenses/7155821436.html,WORK FROM HOME?  EXPENSES REIMBURSED?
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7159209012.html,Senior Full-stack Engineer | HireArt
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/new-york-ai-sports-startup-seeks/7162964400.html,A.I. Sports Startup seeks talented iOS engineer [remote position]
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7160060974.html,Data Science Fellowship
+Austin,contract,https://austin.craigslist.org/sof/d/austin-project-change-manager/7154491882.html,Project / Change Manager
+Los Angeles,full-time,https://losangeles.craigslist.org/lgb/sof/d/long-beach-want-career-in-it-or-tech-we/7155561412.html,Want a career in IT or Tech? We can help
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7159208891.html,Senior Full-stack Engineer | HireArt
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-mask-designer/7160489919.html,Mask Designer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7160058463.html,Software Engineering Fellowship
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-mid-level-programmer/7152262804.html,**Mid-Level Programmer**
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/san-diego-peak-now-hiring-software/7155325191.html,PEAK Now Hiring a Software Engineer!
+New York,full-time,https://newyork.craigslist.org/fct/sof/d/stamford-senior-solutions-analyst/7159148387.html,Senior Solutions Analyst
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/woodland-hills-php-web-developer/7164069382.html,PHP Web Developer
+Boston,full-time,https://boston.craigslist.org/sob/sof/d/quincy-want-career-in-it-or-tech-we-can/7158306686.html,Want a career in IT or Tech? We can help
+Miami,full-time,https://miami.craigslist.org/pbc/sof/d/west-palm-beach-software-developer/7158794845.html,Software Developer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellevue-senior-site-reliability/7159982297.html,Senior Site Reliability Engineer - Drones - REMOTE
+Austin,contract,https://austin.craigslist.org/sof/d/leander-adobe-captivate/7148923203.html,Adobe Captivate
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/fairfield-it-service-management-manager/7154750667.html,IT Service Management Manager
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-get-paid-to-learn-trade/7158743131.html,Get Paid to Learn a Trade: Digital Marketing
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-5-seats-left-get-paid-to-get/7163794324.html,5 Seats Left: Get Paid to Get your HSE (Remote to Onsite)
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-development-engineer/7159921901.html,Software Development Engineer
+Austin,full-time,https://austin.craigslist.org/sof/d/austin-data-science-fellowship/7148254192.html,Data Science Fellowship
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7154502811.html,Data Science Fellowship
+New York,contract,https://newyork.craigslist.org/fct/sof/d/norwalk-oracle-database-administrator/7156041043.html,Oracle Database Administrator
+New York,full-time,https://newyork.craigslist.org/que/sof/d/astoria-want-career-in-it-or-tech-we/7163988308.html,Want a career in IT or Tech? We can help
+Miami,full-time,https://miami.craigslist.org/brw/sof/d/fort-lauderdale-dot-net-developer/7163044701.html,DOT NET DEVELOPER
+New York,employee's choice,https://newyork.craigslist.org/lgi/sof/d/lynbrook-full-stack-developer-for/7163485436.html,Full Stack Developer for startup - future cto?
+Miami,contract,https://miami.craigslist.org/brw/sof/d/fort-lauderdale-entry-level-mobile-app/7158579859.html,***Entry Level  Mobile App Developers (Android Studio or Swift)***
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/sunnyvale-the-ultimate-internship/7159474069.html,THE ULTIMATE INTERNSHIP – BECOME AN IT EXPERT IN 5 MONTHS
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7154500738.html,Software Engineering Fellowship
+New York,full-time,https://newyork.craigslist.org/que/sof/d/astoria-want-career-in-it-or-tech-we/7155561709.html,Want a career in IT or Tech? We can help
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-5-seats-left-get-paid-to-learn/7163793776.html,5 Seats Left: Get Paid to Learn Digital Marketing (Remote to Onsite)
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/snoqualmie-data-analyst/7159165741.html,Data Analyst
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-software-deveoper-entry/7154137490.html,Software Deveoper (Entry level)
+New York,contract,https://newyork.craigslist.org/mnh/sof/d/dripping-springs-vmix-video-software/7154892791.html,Vmix Video Software Wizard (Texas (Central Time))
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-senior-software-developer/7158795284.html,Senior Software Developer
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7153173410.html,Computer Engineers
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7154502291.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-embedded-software-engineer/7157732050.html,Embedded Software Engineer
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineer-front-end/7151867998.html,"Software Engineer, Front End"
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7154499988.html,Software Engineering Fellowship
+Miami,contract,https://miami.craigslist.org/mdc/sof/d/miami-remote-programmer-ms-web/7162840784.html,Remote Programmer - MS Web Application Programmer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-business-intelligence-bi/7157060098.html,Business Intelligence (BI) Developer -- Beer & Beverage Industry
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/north-hollywood-software-deveoper-entry/7151850616.html,Software Deveoper (Entry level)
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7154447536.html,Senior Full-stack Engineer | HireArt
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-senior-full-stack-engineer/7164035419.html,Senior Full-stack Engineer | HireArt
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-validation-position-work/7155938054.html,Data Validation Position - Work From Home Full-Time
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/beverly-hills-product-lead-start-up/7151514429.html,Product Lead - Start up (esports) (SEL)
+New York,employee's choice,https://newyork.craigslist.org/mnh/sof/d/new-york-software-developer-wanted-now/7152918163.html,Software Developer Wanted NOW
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-electrical-engineer-interns-and/7155706740.html,"Electrical engineer interns, and other intern positions"
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/los-angeles-it-crm-pbx-systems-manager/7149930927.html,IT + CRM + PBX SYSTEMS MANAGER/SPECIALIST - FULL TIME!
+New York,full-time,https://newyork.craigslist.org/brk/sof/d/brooklyn-alarm-technician-installation/7152368039.html,ALARM TECHNICIAN INSTALLATION EXPERIENCE
+Seattle,full-time,https://seattle.craigslist.org/skc/sof/d/sumner-web-developer-coder/7155669530.html,Web Developer/Coder
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/computer-engineers/7149002685.html,Computer Engineers
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/san-francisco-remote-full-stack-engineer/7148892762.html,Remote Full Stack Engineer
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-software-engineer-medical/7155611014.html,SOFTWARE ENGINEER- MEDICAL
+Los Angeles,full-time,https://losangeles.craigslist.org/sfv/sof/d/van-nuys-network-monitor-programmer/7149001699.html,Network Monitor/Programmer
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-data-science-fellowship/7148252760.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-want-career-in-it-or-tech-we/7155581275.html,Want a career in IT or Tech? We can help
+Los Angeles,full-time,https://losangeles.craigslist.org/wst/sof/d/san-francisco-remote-full-stack-engineer/7148908270.html,Remote Full Stack Engineer
+New York,full-time,https://newyork.craigslist.org/mnh/sof/d/new-york-city-software-engineering/7148250452.html,Software Engineering Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/mountlake-terrace-ruby-on-rails/7155313508.html,Ruby on Rails Developer - Full Stack - React - Good Teammate
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-data-science-fellowship/7148253235.html,Data Science Fellowship
+Seattle,contract,https://seattle.craigslist.org/skc/sof/d/kent-security-engineer-wanted/7155212074.html,Security Engineer Wanted!
+Los Angeles,full-time,https://losangeles.craigslist.org/lac/sof/d/los-angeles-software-engineering/7148251122.html,Software Engineering Fellowship
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-manual-test-engineer-software/7154681968.html,Manual Test Engineer w/Software and Hardware experience
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellevue-senior-technical-consultant/7154520115.html,Senior Technical Consultant and Development Manager
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7154503025.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7154501089.html,Software Engineering Fellowship
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/redmond-business-program-manager/7152472865.html,Business Program Manager
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/bellingham-remote-software-systems-and/7152443914.html,Remote Software Systems and API Tester
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-senior-full-stack-front-end/7152377201.html,Senior Full Stack / Front End Engineer - Contract / Contract to Hire
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/kirkland-software-engineer-contract/7152371367.html,"Software Engineer - Contract/Contract to Hire (Java, Cloud, Big Data)"
+Seattle,part-time,https://seattle.craigslist.org/skc/sof/d/federal-way-full-time-or-part-time/7152188437.html,FULL TIME OR PART TIME DENTAL MARKETING DIRECTOR
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-technical-writer/7151741993.html,Technical Writer
+Seattle,contract,https://seattle.craigslist.org/see/sof/d/seattle-software-architect-kafka/7150682972.html,Software Architect (Kafka)
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-1-project-manager-and-2/7150645865.html,1 Project Manager and 2 Software Engineers
+Seattle,full-time,https://seattle.craigslist.org/est/sof/d/bellevue-lead-sharepoint-developer/7150511327.html,Lead SharePoint Developer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/redmond-full-stack-web-developer/7150189013.html,Full Stack Web Developer
+Seattle,contract,https://seattle.craigslist.org/est/sof/d/bellevue-associate-developer-test/7148277203.html,Associate Developer/Test Engineer
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-data-science-fellowship/7148253406.html,Data Science Fellowship
+Seattle,full-time,https://seattle.craigslist.org/see/sof/d/seattle-software-engineering-fellowship/7148251481.html,Software Engineering Fellowship
