@@ -1,0 +1,47 @@
+<form [formGroup]="checkoutForm" (ngSubmit)="onSubmit($event)">
+
+    <select id= "jobType" formControlName="jobType" class="custom-select">
+      <option value="" disabled>Job Type</option>
+      <option>full-time</option>
+      <option>part-time</option>
+      <option>contract</option>
+      <option>others</option>
+   </select> 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <select class="custom-select" id="location" formControlName="location">
+      <option value="" disabled>Location</option>
+      <option>Los Angeles</option>
+      <option>Miami</option>
+      <option>Boston</option>
+      <option>Detroit</option>
+      <option>New York</option>
+      <option>Seattle</option>
+      <option>Austin</option>
+   </select> 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <button class="button" type="submit" style="background-color: cornflowerblue; cursor: pointer;">Search</button>
+
+</form>
+
+
+<table style="width:100%; border: black; border-style: solid;">
+  <tr style="width:100%; border: black; border-style: solid;">
+    <th style="width:100%; border: black; border-style: solid;">Job Title</th>
+    <th style="width:100%; border: black; border-style: solid;">Job Type</th>
+    <th style="width:100%; border: black; border-style: solid;">Location</th>
+  </tr>
+  <tr *ngFor="let jobo of jobsOutput" style="width:100%; border: black; border-style: solid;">
+    <td style="width:100%; border: black; border-style: solid;">{{jobo['job_title']}}</td>
+    <td style="width:100%; border: black; border-style: solid;">{{jobo['job_type']}}</td>
+    <td style="width:100%; border: black; border-style: solid;">{{jobo['location']}}</td>
+                 
+  </tr>
+  
+</table>
+
+<!-- <tr *ngFor="let jobo of jobsOutput">
+  <td>{{jobo['job_title']}}</td>
+  <td>{{jobo['job_type']}}</td>
+  <td>{{jobo['location']}}</td>
+               
+</tr> -->
