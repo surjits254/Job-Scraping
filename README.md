@@ -38,5 +38,9 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
 ### Step 5 : Setup Angular UI on EC2
 <p> 1. Launch an EC2 instance for Angular and open port 4200. <br>
     2. Install nvm using below command <br>
-    <code> $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash <br>
-           $ nvm install node </code>
+        <code>  $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash </code><br>
+         <code> $ nvm install node </code> <br>
+    3. Execute below commands to install and start apache web server. <br>
+        <code> $ sudo yum -y install httpd </code><br>
+        <code> $ sudo service httpd start </code><br>
+    4.
