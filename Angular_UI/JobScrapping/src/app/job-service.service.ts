@@ -13,7 +13,7 @@ export class JobServiceService {
     private myMethodSubject = new Subject<any>();
 
     constructor(private http: HttpClient) {
-      this.ROOT_URL = "http://3.89.160.252:5000/search";
+      this.ROOT_URL = "http://<IP Address of API EC2>:5000/search";
         this.post$ = this.myMethodSubject.asObservable();
     }
     arrBirds: string [];
