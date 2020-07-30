@@ -43,5 +43,5 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
     3. Execute below commands to install and start apache web server: <br>
         <code> $ sudo yum -y install httpd </code><br>
         <code> $ sudo service httpd start </code><br>
-    4. Change the ip address in <> file with ip address of EC2 where flask apis are running.<br>
+    4. Change the ip address in src/app/job-service.service.ts file with ip address of EC2 where flask apis are running.<br>
     5. Execute this command to launch UI <code> $ ng serve --host 0.0.0.0 --port 4200 </code>
