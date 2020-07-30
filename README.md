@@ -36,4 +36,7 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
     3. open port 5000 on ec2 security group provding access to ec2 of angular UI. </p>
 
 ### Step 5 : Setup Angular UI on EC2
-### WIP
+<p> 1. Launch an EC2 instance for Angular and open port 4200. <br>
+    2. Install nvm using below command
+    <code> $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+           $ nvm install node </code>
