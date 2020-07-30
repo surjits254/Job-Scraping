@@ -37,10 +37,11 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
 
 ### Step 5 : Setup Angular UI on EC2
 <p> 1. Launch an EC2 instance for Angular and open port 4200. <br>
-    2. Install nvm using below command <br>
+    2. Install nvm using below command: <br>
         <code>  $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash </code><br>
          <code> $ nvm install node </code> <br>
-    3. Execute below commands to install and start apache web server. <br>
+    3. Execute below commands to install and start apache web server: <br>
         <code> $ sudo yum -y install httpd </code><br>
         <code> $ sudo service httpd start </code><br>
-    4.
+    4. Change the ip address in <> file with ip address of EC2 where flask apis are running.<br>
+    5. Execute this command to launch UI <code> $ ng serve --host 0.0.0.0 --port 4200 </code>
