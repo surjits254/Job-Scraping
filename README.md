@@ -17,7 +17,7 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
     3. Install scrapy library on EC2 <br>
     4. Execute below code: <br>
         <code> $ cd Job-Scraping/craiglist/craiglist </code> <br> 
-        <code> $ scrapy crawl craigSpider -o <output_file you entered>.csv </code> </p>
+        <code> $ scrapy crawl craigSpider -o \<output_file you entered\>.csv </code> </p>
         
 ### Step 2 : Setup Lambda Function
 <p> 1. Create a lambda functiion with S3 event trigger. <br>
