@@ -4,7 +4,7 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
 ## Architecture
 ![alt text](https://github.com/surjits254/Job-Scraping/blob/master/img/WebScraping_Architecture.jpg?raw=true)
 
-<p>     1. Web Crawler will run on on EC2 instance and dump the data in csv while which will be uploaded in a S3 bucket. <br>
+<p>     1. Web Crawler will run on on EC2 instance and dump the data in csv file which will be uploaded in a S3 bucket. <br>
         2. S3 event will be triggered invoking lambda function which uploads data to neo4j graph database on another EC2 instance. <br>
         3. Flask APIs will be deployed on another EC2 instance which connect to neo4j graph database. <br>
         4. Angular UI will be deployed on another EC2 instance connecting to flask apis. </p>
