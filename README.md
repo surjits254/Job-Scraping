@@ -12,7 +12,7 @@ Job Scraping pipeline deployed in AWS with data in Neo4j graph database which is
 ## Below are steps to install this project:
 
 ### Step 1 : Installing Scraping Code on EC2 and Setting AWS S3 Bucket
-<p> 1. Launch and EC2 instance and attach IAM role for putting objects on S3 <br>
+<p> 1. Launch EC2 instance and attach IAM role for putting objects on S3 <br>
     2. Edit S3 bucket_name and output_file variable in conf.ini file <br>
     3. Install scrapy library on EC2 <br>
     4. Execute below code: <br>
